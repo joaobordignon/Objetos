@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aula1\Aluno.cs" />
+    <Compile Include="Aula1\Funcionario.cs" />
     <Compile Include="Aula1\Professor.cs" />
     <Compile Include="Aula1\programa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
