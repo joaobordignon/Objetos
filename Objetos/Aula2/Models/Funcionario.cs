@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Objetos.Aula1
+namespace Objetos.Aula2.Models
 {
-    public class Funcionario
+    public class Funcionario // Classe
     {
-        public string nome;
+        public string nome; // Atributo
         public string sobrenome;
         public string email;
         public int idade;
 
-        public void MostraEmail()
+        public void MostraEmail() // métodos
         {
             Console.WriteLine($"E-mail: {email}");
         }

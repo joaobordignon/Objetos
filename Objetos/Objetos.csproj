@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Objetos.Aula1.programa</StartupObject>
+    <StartupObject>Objetos.Aula2._1.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,9 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aula1\Aluno.cs" />
-    <Compile Include="Aula1\Funcionario.cs" />
+    <Compile Include="Aula2.1\Models\Pessoa.cs" />
+    <Compile Include="Aula2.1\Program.cs" />
+    <Compile Include="Aula2\Models\Funcionario.cs" />
     <Compile Include="Aula1\Professor.cs" />
     <Compile Include="Aula1\programa.cs" />
+    <Compile Include="Aula2\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
