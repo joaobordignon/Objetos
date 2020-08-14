@@ -25,7 +25,7 @@ namespace Objetos.Aula1
 
         public void MostraNomeESobrenome()
         {
-            Console.WriteLine($"{nome} {sobrenome}.");
+            Console.WriteLine($"{nome} {sobrenome}");
         }
     }
 
